@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Video</title>
+</head>
+<body>
+<video controls>
+<source src="" type="video/MOV">
+</video>
+</body>
+</html>
